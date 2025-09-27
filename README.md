@@ -6,5 +6,8 @@
   </strong>
 </p>
 </html>  
+<div align="center">
+  
+  ![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https://github.com/jkmloom)
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+</div>
