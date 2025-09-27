@@ -6,8 +6,3 @@
   </strong>
 </p>
 </html>  
-<div align="center">
-  
-  ![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https://github.com/jkmloom)
-
-</div>
