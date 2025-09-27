@@ -4,4 +4,3 @@
     <img src="assets/jkm.png" width="500" />
   </strong>
 </p>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
